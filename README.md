@@ -25,7 +25,9 @@ pip install -r requirements.txt
 * The model need the previous 5 frames as input, and it can track the lines in the 6th frame as output.
 
 `6 ground truth frames`
+
 ![Network](/image/下載3.png)
 
 `Tracking result in 6th frames`
+
 ![Network](/image/下載4.png)
